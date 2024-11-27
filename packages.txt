@@ -1,3 +1,8 @@
-cmake
 build-essential
+cmake
 python3-dev
+libboost-python-dev
+libboost-thread-dev
+libboost-system-dev
+libopenblas-dev
+liblapack-dev
