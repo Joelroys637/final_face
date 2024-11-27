@@ -1,5 +1,4 @@
-face-recognition
-numpy==1.24.4
-dlib==19.19.0
-opencv-python==4.10.0.84
-streamlit==1.39.0
+face_recognition
+dlib==19.24.6
+numpy==1.23.5
+streamlit
