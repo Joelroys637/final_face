@@ -1,5 +1,4 @@
-face_recognition
-face_recognition_models
+face-recognition
 numpy==1.24.4
 dlib==19.19.0
 opencv-python==4.10.0.84
