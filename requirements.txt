@@ -1,6 +1,7 @@
+streamlit
+face_recognition
+dlib
 cmake
-dlib==19.24.6
-face-recognition
-numpy==1.23.5
-opencv_python==4.10.0.84
-streamlit==1.39.0
+opencv-python
+build-essential
+python-dotenv
